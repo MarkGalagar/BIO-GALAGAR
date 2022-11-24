@@ -1,0 +1,126 @@
+nav .nav-link:hover {
+	background-color: #eea760;
+	color: #000000;
+	border-radius: 10px;
+	transition: 0.2s;
+}
+nav .active {
+	background-color: #ff9225;
+	color: #000000;
+	border-radius: 10px;
+}
+body {
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+
+}
+
+audio {
+	display: none;
+}
+
+.title {
+	display: flex;
+	justify-content: center;
+	margin: 150px;
+}
+.title h1 {
+	width: 600px;
+	padding: 100px;
+	color: #000000;
+}
+
+.title h1:hover {
+	color: rgb(255, 255, 255);
+	border-radius: 10px;
+	background-color: rgba(0, 0, 0, 0.315);
+}
+
+iframe {
+	width: 700px;
+	height: 400px;
+	margin-bottom: 200px;
+}
+
+.elementary h1 {
+	color: #000000;
+	padding: 20px;
+	background-color: rgb(255, 255, 255);
+}
+.elementary p {
+	color: #000000;
+	padding: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 10px;
+	background-color: rgb(255, 255, 255);
+}
+.elementary img {
+	width: 300px;
+	margin: 20px;
+}
+.jhs h1 {
+	color: #000000;
+	padding: 20px;
+	background-color: rgb(255, 255, 255);
+}
+.jhs p {
+	color: #000000;
+	padding: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 10px;
+	background-color: rgb(255, 255, 255);
+}
+.jhs img {
+	width: 300px;
+	margin: 20px;
+}
+.shs h1 {
+	color: #000000;
+	padding: 20px;
+	background-color: rgb(255, 255, 255);
+}
+.shs p {
+	color: #000000;
+	padding: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 10px;
+	background-color: rgb(255, 255, 255);
+}
+
+.shs img {
+	width: 300px;
+	margin: 20px;
+}
+.gallery h1 {
+	color: #000000;
+	padding: 20px;
+	background-color: rgb(255, 255, 255);
+}
+.gallery .carousel {
+	width: 600px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 190px;
+}
+.gallery .carousel-item {
+	width: 600px;
+	height: 300px;
+	
+}
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
